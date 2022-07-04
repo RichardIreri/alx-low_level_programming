@@ -8,6 +8,9 @@
  */
 
 int main(void)
+/**
+ * This is the program entry point and end point.
+ */
 {
 	puts("\"Programming is like building a multilingual puzzle");
 
