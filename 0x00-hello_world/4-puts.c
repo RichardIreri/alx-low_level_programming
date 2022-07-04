@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* This program prints exactly the string 
+/*
+ * This program prints exactly the string 
  * "programming is like building a multilingual puzzle
  * followed by a new line."
  * Return: always 0 (success)
